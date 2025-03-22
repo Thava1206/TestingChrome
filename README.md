@@ -1,2 +1,2 @@
 # TestingChrome
-where I test bunch of stuff
+Testing out chrome extension
